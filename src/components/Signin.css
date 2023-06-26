@@ -1,0 +1,101 @@
+
+.signin_container{
+  height: 1450px;
+  margin-top: -95px;
+  padding-top: 25px;
+}
+.signin {
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border: 1px solid  #e1d8d8;
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 90px;
+
+}
+.signin_logo {
+  width: 180px;
+  
+}
+.signin input {
+  width: 250px;
+  height: 30px;
+  border-radius: 4px;
+  border: 1px solid  #e1d8d8;
+  background-color: #fafafa;
+  height: 35px;
+  margin-top: 7px;
+  font-size: 14px;
+  padding-left: 5px;
+  }
+  .signin button {
+    width: 250px;
+    height: 35px;
+    border-radius: 10px;
+    border: 1px solid  #e1d8d8;
+    background-color: rgb(7, 157, 226);
+    height: 35px;
+    margin-top: 10px;
+    font-size: 14px;
+    padding-left: 5px;
+    color: #fafafa;
+
+    }
+    .signin button:hover {
+      background-color: rgb(22, 117, 225);
+      }
+     .signin_apps {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+      }
+      .signin_apps img {
+        width: 135px;
+        margin-left: 5px;
+        margin-right: 5px;
+        }
+span {
+  width: 90px;
+  margin-right: 12px;
+  margin-left: 12px;
+}
+.or {
+  font-size: 12px;
+}
+.facebook-logo1 img {
+  width: 25px;
+  
+ 
+}
+.facebook-logo1 {
+  color: rgb(77, 103, 160);
+  font-weight: 500;
+  font-size: 14px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.text {
+  display: flex;
+  justify-content: center;
+  font-size: 14px;
+}
+.app_images {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+  } 
+  .app_images img {
+    width: 135px;
+    margin: 0 5px;
+   border-radius: 6px;
+   cursor: pointer;
+    
+
+}
+
+   
